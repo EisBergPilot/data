@@ -1,11 +1,25 @@
 {
-  "posts": [
+  "2print": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "Sprechende Bezeichnung für das Druckprotokoll",
+      "user": "Druckender Anwender",
+      "source": "Datei"
+    },
+    {
+      "id": 2,
+      "title": "Kundenstammdaten",
+      "user": "Max Mustermann",
+      "source": "Excel-Datei"
+    },
+    {
+      "id": 3,
+      "title": "Beratungsprotokoll",
+      "user": "Miriam Mustermann",
+      "source": "PDF-Datei"
     }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "ToDo"
   }
 }
