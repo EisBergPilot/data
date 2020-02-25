@@ -4,31 +4,9 @@
   {
    "name": "Familie",
    "children": [
-    {
-     "name": "Ralf",
-     "children": [
-      {"name": "AgglomerativeRalf", "value": 3938},
-      {"name": "CommunityStructure", "value": 3812},
-      {"name": "HierarchicalRalf", "value": 6714},
-      {"name": "MergeEdge", "value": 743}
-     ]
-    },
-    {
-     "name": "Christoph",
-     "children": [
-      {"name": "BetweennessCentrality", "value": 3534},
-      {"name": "LinkDistance", "value": 5731},
-      {"name": "MaxFlowMinCut", "value": 7840},
-      {"name": "ShortestPaths", "value": 5914},
-      {"name": "SpanningTree", "value": 3416}
-     ]
-    },
-    {
-     "name": "Victor",
-     "children": [
-      {"name": "AspectRatioBanker", "value": 7074}
-     ]
-    }
+    {"name": "Ralf", "value": 3938},
+    {"name": "Christoph","value": 3534},
+    {"name": "Victor", "value": 7074}
    ]
   },
   {
