@@ -1,0 +1,63 @@
+{
+ "name": "Max Musterkind",
+ "children": [
+  {
+   "name": "Familie",
+   "children": [
+    {
+     "name": "Ralf",
+     "children": [
+      {"name": "AgglomerativeRalf", "value": 3938},
+      {"name": "CommunityStructure", "value": 3812},
+      {"name": "HierarchicalRalf", "value": 6714},
+      {"name": "MergeEdge", "value": 743}
+     ]
+    },
+    {
+     "name": "Christoph",
+     "children": [
+      {"name": "BetweennessCentrality", "value": 3534},
+      {"name": "LinkDistance", "value": 5731},
+      {"name": "MaxFlowMinCut", "value": 7840},
+      {"name": "ShortestPaths", "value": 5914},
+      {"name": "SpanningTree", "value": 3416}
+     ]
+    },
+    {
+     "name": "Victor",
+     "children": [
+      {"name": "AspectRatioBanker", "value": 7074}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Betreut",
+   "children": [
+    {"name": "Filialen", 
+	"children": [
+      {"name": "Filiale 1", "value": 1983},
+      {"name": "Filiale 3", "value": 2047}
+     ]
+	},
+	{"name": "Arzt", 
+	"children": [
+      {"name": "Dr. Haudrauf", "value": 1983},
+      {"name": "Prof. Dr. med. LetzterTermin", "value": 2047}
+     ]
+	},
+	{"name": "Ansprechpartner", 
+	"children": [
+      {"name": "Herr Machtgern Blau", "value": 1983},
+      {"name": "Frau Isolde Schmidt", "value": 2047}
+     ]
+	}
+	{"name": "Vermittler", 
+	"children": [
+      {"name": "Herr Grobi Jan", "value": 1983}
+     ]
+	}
+   ]
+  }
+ ]
+}
